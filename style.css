@@ -1,0 +1,142 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#header {
+    padding: 20px;
+    background-color: gray;
+    color: white;
+}
+
+#logo {
+    height: 30px;
+    width: auto;
+    display: inline-block;
+}
+
+#profileName {
+    float: right;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#body {
+    padding: 20px;
+}
+
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.featureBlock {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+li.highlighted {
+    background-color: gray;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    
+}
+
+#conversationProperties {
+    display: inline-block;
+    text-align: bottom;
+}
+
+#conversationSuccess {
+    border-radius: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-color: red;
+    color: white;
+    display: inline-block;
+}
+
+#conversationRepresentativeLabel {
+    display: inline-block;
+}
+
+#conversationRepresentativeName {
+    display: inline-block;
+}
+
+#conversationDateTime {
+    float: right;
+}
+
+#conversationDate {
+    display: inline-block;
+}
+
+#conversationTime {
+    display: inline-block;
+}
+
+#audioWrapper {
+    margin-top: 50px;
+    
+}
+
+#speakingTalkingPercentageChart {
+    width: 300px;
+    height: 150px;
+}
+
+#classificationBar {
+    height: 100px;
+    width: 80%;
+    position: relative;
+    margin: auto;
+    border: solid black;
+    border-width: 1px 1px;
+}
+
+.classificationItem {
+    position: absolute;
+    height:100px;
+}
+
+#classificationLegend {
+    float: right;
+}
+
+.classificationLegendItem {
+    display: inline-block;
+    padding: 10px;
+}
+
+.classificationLegendColor {
+    display: inline-block;
+    height: 12px;
+    width: 12px;
+    margin-right: 4px;
+}

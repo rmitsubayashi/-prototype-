@@ -1,0 +1,38 @@
+﻿nine what ;2;0
+you want to do ;2;5
+after ;2;6
+grad ;2;7
+teachers ;2;13
+yes I study at the university ;2;15
+what subjects do you study I'm studying marketing ;3;18
+a ;3;22
+you graduate I will graduate next semester ;3;24
+it's just a great ;3;31
+well not yet ;2;33
+do after you graduate ;3;36
+I'm not sure yet depends ;2;38
+depends on what it depends on what kind of job offers I get ;3;41
+what ;2;47
+well if I get a job that provides opportunity I will take it ;2;48
+what other jobs have you applied for %HESITATION I've made many applications to all kinds of companies ;2;53
+what kind ;3;60
+did you apply to ;3;62
+hotels factories in port companies what if you get a job far away ;2;64
+I'm home ;3;70
+I would rather stay close to my family what will you do ;2;73
+I cannot find a job ;2;77
+if I cannot find a job I will stay in school and study for a master's degree ;2;79
+it's just a greedy and what faculty ;3;85
+I'm not sure yet I'll have to think about it ;2;88
+yes I study at the university ;2;100
+what subjects do you study ;3;105
+I'm studying marketing ;2;109
+you graduate ;3;114
+I will graduate next semester ;2;117
+do after you graduate ;3;123
+what other jobs have you applied for ;2;128
+what kind ;3;133
+did you apply to ;3;134
+it's just a ;3;138
+what faculty ;3;140
+I'm not sure yet I'll have to think about it ;2;144
